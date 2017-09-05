@@ -17,12 +17,13 @@ body {
 
 
   .facts {
-    border: 20px solid blue;
+    border: 20px solid white;
     display: inline-flex;
     margin: 10px auto;
     margin-bottom: 20px;
     font-family: monospace;
   }
+
   .fools {
     border: 20px solid white;
     display: inline-flex;
